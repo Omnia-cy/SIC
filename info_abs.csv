@@ -1,0 +1,4 @@
+"Row.number";"Code.used.in.stainings";"Name";"Synonyms";"Target";"Producer";"Antibody.ID";"Target.Ensembl.ID";"Link.to.Human.Protein.Atlas";"Core.partner";"Reactivity";"Host";"Clonality";"Clone";"Source";"Type";"Lot.ID";"Immunogen"
+38;40;"Ki-67 Dako (2)";"";"Ki-67";"Dako";"M7240";"ENSG00000148773";"Link";"core";"human";"mouse";"monoclonal";"MIB-1";"Cell culture";"IgG1kappa";"";"peptide"
+55;59;"ER alpha";"Estrogen Receptor alpha";"Estrogen receptor alpha";"Dako";"M7047";"ENSG00000091831";"Link";"core";"human";"mouse";"monoclonal";"1D5";"Cell culture";"IgG1kappa";"";"unknown"
+59;65;"Phospho histone H3";"pHH3";"phosphorylated serine moiety 10";"Millipore";"#06-570";"ENSG00000163041";"Link";"core";"human";"rabbit";"polyclonal";"";"";"";"";"peptide"
